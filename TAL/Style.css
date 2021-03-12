@@ -1,11 +1,11 @@
 h1 {font-size: 100px;
 text-align:center;
-color: gold;
+color: #FFD700;
 text-shadow: 2px 2px #784d12}
 
 p { font-size: 30px;
 font-family: Times New Roman; 
-color: gold; 
+color: #FFD700; 
 text-align: center;
 background: #784d12;}
 
@@ -19,7 +19,7 @@ width: 100%;}
 background:#784d12;
 font-size: 50px;
 font-family: Times New Roman;
-color: gold; 
+color: #FFD700; 
 position: absolute;
 left:940px;
 top: 380px;}
@@ -28,7 +28,7 @@ top: 380px;}
 background:#784d12;
 font-size: 50px;
 font-family: Times New Roman;
-color: gold; 
+color: #FFD700; 
 position: absolute;
 left:30px;
 top: 380px;}
@@ -36,7 +36,7 @@ top: 380px;}
 #Andromeda {
 background:#784d12;
 font-size: 50px;
-color: gold;
+color: #FFD700;
 font-family: Times New Roman;
 text-shadow: black;
 position: absolute;
@@ -46,7 +46,7 @@ top:550px;}
 #Chimera {
 background:#784d12;
 font-size: 50px;
-color: gold;
+color: #FFD700;
 font-family: Times New Roman;
 text-shadow: black;
 position: absolute;
