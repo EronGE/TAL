@@ -1,0 +1,17 @@
+h1 {font-size: 100px;
+	color: gold;
+	font-family: Times New Roman;}
+
+p  {font-size: 25px;
+	color: gold;
+	font-family: Times New Roman;
+	background: #4a3737;}
+
+img {width: 75%;
+	height: auto;
+	position: relative;
+	left: 235px;}
+
+.feather{position: relative;
+	width: 15%;
+	top: -3800px;}

@@ -1,0 +1,11 @@
+body {background-image: url(Forest.jpg);}
+
+h1 {font-size: 80px;
+	text-align: center;
+	color: gold;
+	background:#AAACAC;
+	opacity: 0.8;}
+
+img {position: absolute;
+	left:500px;
+	top: 110px;}

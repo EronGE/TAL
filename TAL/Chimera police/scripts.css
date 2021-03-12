@@ -1,0 +1,30 @@
+h1 {font-size: 100px;
+	color: white;
+	font-family: Courier New;}
+
+p  {font-size: 25px;
+	color: white;
+	font-family: Courier New;
+	background: #758296;
+	text-shadow: 1px 1px #09908A;
+	margin-left: 290px;
+	margin-right: 290px;}
+
+img {width: 55%;
+	height: auto;
+	position: relative;
+	left: 415px;}
+
+li {font-size: 25px;
+	color: white;
+	font-family: Courier New;
+	background: #758296;
+	text-shadow: 1.5px 1.5px #09908A;
+	margin-left: 200px;
+	margin-right: 200px;
+	line-height: 70px;}
+
+.shield{position: relative;
+	width: 15%;
+	top: -5430px;
+	left: -230px;}

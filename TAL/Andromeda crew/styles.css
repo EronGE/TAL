@@ -1,0 +1,17 @@
+h1 {font-size: 100px;
+	color: white;
+	font-family: Courier New;}
+
+p  {font-size: 25px;
+	color: white;
+	font-family: Courier New;}
+
+img {width: 55%;
+	height: auto;
+	position: relative;
+	left: 415px;}
+
+.portal{position: relative;
+	width: 15%;
+	top: -6800px;
+	left: -250px;}
